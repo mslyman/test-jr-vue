@@ -1,0 +1,13 @@
+{
+  "name": "test-jr-vue",
+  "version": "0.1.0",
+  "author": "Michael Semisotov",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "http-server ./src -c-1 -p 8081"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.0"
+  }
+}
